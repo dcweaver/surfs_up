@@ -13,7 +13,9 @@ The same was done for the December temperature dataframe and the below table was
 
 ### Differences
 
-When comparing the two tables of statistics it jumps out that December had a minumum temperature only 8 degrees lower than that of June. The temperatures in june are consistently higher than that of December, but the average temperature is only 3 degrees higher in June. Lastly, June had a lower standard deviation that December, meaning that the temperatures in June are more consistent than the temperatures in December. 
+* December had a minumum temperature only 8 degrees lower than that of June.
+* The temperatures in june are consistently higher than that of December but the average temperature is only 3 degrees higher in June. 
+* June had a lower standard deviation that December, meaning that the temperatures in June are more consistent than the temperatures in December. 
 
 ## Summary 
 
